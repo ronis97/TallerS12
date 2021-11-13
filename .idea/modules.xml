@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/TallerS12.iml" filepath="$PROJECT_DIR$/.idea/TallerS12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TallerS12.iml" filepath="$PROJECT_DIR$/TallerS12.iml" />
     </modules>
   </component>
 </project>
-=======
-      <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
-    </modules>
-  </component>
-</project>
-
->>>>>>> 51152158e838cec4653dbeecf714908e5bfeec17
